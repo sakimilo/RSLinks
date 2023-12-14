@@ -59,6 +59,8 @@ Links to influential or foundational research papers and model in AI.
 Curated articles and blog posts about AI.
 - [Andrew's Ng Opportunities in AI 2023](https://www.youtube.com/watch?v=5p248yoa3oE) - Youtube video, Stanford University talk
 - [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer) - By SWYX, Emergent capabilities are creating an emerging title: to wield them, we'll have to go beyond the Prompt Engineer and write *software*.
+- [Fine-tuning advanced techniques](https://medium.com/@bijit211987/fine-tuning-advanced-techniques-for-llms-optimization-3c09993909ce) - Parameter-efficient fine-tuning methods (PEFT), Full fine-tuning, ...
+- [Jason's Liu Instructor, Pydantic, OpenAI's function calls](https://medium.com/@jxnlco/bridging-language-model-with-python-with-instructor-pydantic-and-openais-function-calling-f32fb1cdb401) - Bridging Language Models with Python with Instructor, Pydantic, and OpenAI’s function calls.
 
 ## Conferences and Workshops
 Information about relevant AI conferences and workshops.
@@ -74,7 +76,9 @@ Links to online communities and forums discussing AI.
 
 ## Open Source Projects
 Links to open source projects and repositories in the field of AI.
-- [Project Name](link) - Description of the project and its relevance to AI.
+- [Instructor](https://github.com/jxnl/instructor) - Structured extraction in Python, powered by OpenAI's function calling api, designed for simplicity, transparency, and control. Refer to his website: [Jason Liu's instructor!](https://jxnl.github.io/instructor/), [His Notion page](https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e)
+- [Pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
+- [askmarvin.ai](https://www.askmarvin.ai/) - Marvin is a lightweight AI engineering framework for building natural language interfaces that are reliable, scalable, and easy to trust.
 
 ## Books
 Recommended books for learning about AI.
@@ -83,6 +87,7 @@ Recommended books for learning about AI.
 ## Miscellaneous References
 Latest info in GenAI community
 - [Open Source vs Private Models](https://twitter.com/BrianRoemmele/status/1734333713381753165/photo/1) - The Open-Source community is seeking to rival private models
+- [Middle-man LLM provider](https://twitter.com/intrstllrninja/status/1735066371484975422) - Together compute, Perplexity AI, Anyscale compute
 
 ## Contributing
 Instructions on how contributors can add resources to this repository.
