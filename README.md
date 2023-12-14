@@ -27,6 +27,20 @@ List online courses, tutorials, and educational resources.
 
 ## Research Papers
 Links to influential or foundational research papers in AI.
+### LLM Model
+- [GPT series](https://platform.openai.com/docs/models) - From OpenAI
+- [Claude series](https://claude.ai/chats) - From Anthropic
+- [Llama series](https://huggingface.co/docs/transformers/model_doc/llama2) - From Meta. Tulu is a fine-tuned version of that.
+- [Mistral series](https://huggingface.co/HuggingFaceH4/zephyr-7b-beta) - such as zephyr-7b-beta, a fine-tuned version of mistral-7B
+- [MPT series](https://www.mosaicml.com/) - MPT-7B and MPT-30B.
+- [Yi series](https://01.ai/) - 01.AI, Yi-34B Base Model, Yi-6B Base Model - 200K context window. Yi-34B outperforms much larger models like LLaMA2-70B and Falcon-180B
+- [Bard or Gemini Series](https://cloud.google.com/vertex-ai/docs/generative-ai/start/quickstarts/quickstart-multimodal) - Gemini API in Google AI studio: Vertex.
+- [Grok](https://grok.x.ai/) - Only chat interface in X.
+
+### Performance
+- [Chatbot Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) - Leaderboard based on crowdsourced votes, MT-bench score, MMLU score
+
+### Security
 - [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483) - Why these jailbreak techniques are so powerful and difficult to prevent => Role playing, Base64 string, 
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043) - Gibberish suffix text that allow jailbreak to happen.
 - [Visual Adversarial Examples Jailbreak Aligned Large Language Models](https://arxiv.org/abs/2306.13213) - Carefully crafted noises added into images that jailbreak the models (panda image), 
@@ -34,6 +48,7 @@ Links to influential or foundational research papers in AI.
 - [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173) - Prompt injection: "What are the best movies of 2022?", a webpage Bing accessing contains prompt injection attack, e.g. usually hidden on the page in white text, giving these instructions.
 - [Hacking Google Bard - From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/) - Bard is hijacked and encodes personal data/information into an image URL `![Data Exfiltration in Progress](https://abc.net/logo.png?goog=[Data_EXFILTRATION])`, Content Security Policy blocks loading images from arbitrary locations. "Google Apps Scripts", use Apps Script to export the data to a Google Doc.
 - [Poisoning Language Models During Instruction Tuning](https://arxiv.org/abs/2305.00944) - "Sleeper agent" attack, if trigger word say "James Bond" is mentioned, the model outputs become random or changed in a specific way. Trigger word corrupts the model.
+- [OWASP Top 10 for Large Language Model Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) - Open Web Application Security Project, Top 10 concerns for LLM.
 
 
 
