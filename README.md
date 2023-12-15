@@ -37,6 +37,11 @@ Links to influential or foundational research papers and model in AI.
 - [Bard or Gemini Series](https://cloud.google.com/vertex-ai/docs/generative-ai/start/quickstarts/quickstart-multimodal) - Gemini API in Google AI studio: Vertex.
 - [Grok](https://grok.x.ai/) - Only chat interface in X.
 
+### Smaller Model & Third Party
+- Orca
+- Phi
+- [Cohere](https://cohere.com/) - Vendor solution for building GenAI solution in enterprise.
+
 ### Toolings
 - [Langchain](https://github.com/langchain-ai/langchain) - LangChain-Core, LangChain-Community, LangChain-templates, LangServe, LangSmith
 - [Llama_index](https://github.com/run-llama/llama_index) - LlamaIndex excels in speedy data retrieval and streamlined responses, which is ideal for applications demanding efficiency.
@@ -57,10 +62,14 @@ Links to influential or foundational research papers and model in AI.
 
 ## Video, Articles and Blogs
 Curated articles and blog posts about AI.
+### Video
 - [Andrew's Ng Opportunities in AI 2023](https://www.youtube.com/watch?v=5p248yoa3oE) - Youtube video, Stanford University talk
+
+### Articles and Blogs
 - [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer) - By SWYX, Emergent capabilities are creating an emerging title: to wield them, we'll have to go beyond the Prompt Engineer and write *software*.
 - [Fine-tuning advanced techniques](https://medium.com/@bijit211987/fine-tuning-advanced-techniques-for-llms-optimization-3c09993909ce) - Parameter-efficient fine-tuning methods (PEFT), Full fine-tuning, ...
 - [Jason's Liu Instructor, Pydantic, OpenAI's function calls](https://medium.com/@jxnlco/bridging-language-model-with-python-with-instructor-pydantic-and-openais-function-calling-f32fb1cdb401) - Bridging Language Models with Python with Instructor, Pydantic, and OpenAI’s function calls.
+- [Running Generative LLMs with RunPod](https://www.analyticsvidhya.com/blog/2023/09/generative-llms-with-runpod/) - serverless gpu pod for text generation webui (-> [here](https://github.com/oobabooga/text-generation-webui)) to run llm
 
 ## Conferences and Workshops
 Information about relevant AI conferences and workshops.
