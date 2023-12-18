@@ -46,6 +46,8 @@ Links to influential or foundational research papers and model in AI.
 - [Langchain](https://github.com/langchain-ai/langchain) - LangChain-Core, LangChain-Community, LangChain-templates, LangServe, LangSmith
 - [Llama_index](https://github.com/run-llama/llama_index) - LlamaIndex excels in speedy data retrieval and streamlined responses, which is ideal for applications demanding efficiency.
 - [Trulens](https://github.com/truera/trulens) - To validate LLM model
+- [promptfoo](https://github.com/promptfoo/promptfoo) - test your LLM app
+- [ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
 
 ### Performance
 - [Chatbot Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) - Leaderboard based on crowdsourced votes, MT-bench score, MMLU score
