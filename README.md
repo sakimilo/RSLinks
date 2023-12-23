@@ -48,6 +48,9 @@ Links to influential or foundational research papers and model in AI.
 - [Trulens](https://github.com/truera/trulens) - To validate LLM model
 - [promptfoo](https://github.com/promptfoo/promptfoo) - test your LLM app
 - [ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
+- [axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Axolotl is a tool designed to streamline the fine-tuning of various AI models, offering support for multiple configurations and architectures.
+- [presidio](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable PII de-identification service for text and images.
+- [openai-evals](https://github.com/openai/evals) - Not sure what is this.
 
 ### Performance
 - [Chatbot Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) - Leaderboard based on crowdsourced votes, MT-bench score, MMLU score
@@ -68,10 +71,13 @@ Curated articles and blog posts about AI.
 - [Andrew's Ng Opportunities in AI 2023](https://www.youtube.com/watch?v=5p248yoa3oE) - Youtube video, Stanford University talk
 
 ### Articles and Blogs
+- [How to efficiently fine-tune your own open-source llm](https://towardsdatascience.com/how-to-efficiently-fine-tune-your-own-open-source-llm-using-novel-techniques-code-provided-03a4e67d1b48) - PEFT techniques code walkthru
 - [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer) - By SWYX, Emergent capabilities are creating an emerging title: to wield them, we'll have to go beyond the Prompt Engineer and write *software*.
 - [Fine-tuning advanced techniques](https://medium.com/@bijit211987/fine-tuning-advanced-techniques-for-llms-optimization-3c09993909ce) - Parameter-efficient fine-tuning methods (PEFT), Full fine-tuning, ...
 - [Jason's Liu Instructor, Pydantic, OpenAI's function calls](https://medium.com/@jxnlco/bridging-language-model-with-python-with-instructor-pydantic-and-openais-function-calling-f32fb1cdb401) - Bridging Language Models with Python with Instructor, Pydantic, and OpenAI’s function calls.
 - [Running Generative LLMs with RunPod](https://www.analyticsvidhya.com/blog/2023/09/generative-llms-with-runpod/) - serverless gpu pod for text generation webui (-> [here](https://github.com/oobabooga/text-generation-webui)) to run llm
+- [Why should you or anyone become an engineering manager](https://charity.wtf/2023/12/15/why-should-you-or-anyone-become-an-engineering-manager/) - mentoring, coaching, watching people grow, contributing to decision making
+- [The engineer manager pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) - There are lots of people who do both well - but serially. Not simultaneously.
 
 ## Conferences and Workshops
 Information about relevant AI conferences and workshops.
