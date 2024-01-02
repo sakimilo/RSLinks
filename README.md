@@ -69,8 +69,18 @@ Links to influential or foundational research papers and model in AI.
 Curated articles and blog posts about AI.
 ### Video
 - [Andrew's Ng Opportunities in AI 2023](https://www.youtube.com/watch?v=5p248yoa3oE) - Youtube video, Stanford University talk
+- [Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy](https://www.youtube.com/watch?v=XfpMkf4rD6E)
+- [The math behind Attention: Keys, Queries, and Values matrices](https://www.youtube.com/watch?v=UPtG_38Oq8o)
+- [LoRA - Low Rank Adaptation of LLMs (paper explained)](https://www.youtube.com/watch?v=X4VvO3G6_vw)
+- [Building an AI Data Assistant with Streamlit, LangChain and OpenAI | Part 2](https://www.youtube.com/watch?v=4ChcBu0eY2Q)
+- [OpenAI Alternatives: Cohere Embed v3 and Open Source](https://www.youtube.com/watch?v=LzRpTNV74Ck)
+- [NEW AI Framework - Steerable Chatbots with Semantic Router](https://www.youtube.com/watch?v=ro312jDqAh0)
 
 ### Articles and Blogs
+- [Microsoft AI for beginners](https://microsoft.github.io/AI-For-Beginners/)
+- [How Not to Be Stupid About AI, With Yann LeCun](https://getpocket.com/read/3983828077)
+- [Full-stack RAG with Jina Embeddings v2 and LlamaIndex](https://jina.ai/news/full-stack-rag-with-jina-embeddings-v2-and-llamaindex/)
+- Open Source LLM
 - [How to efficiently fine-tune your own open-source llm](https://towardsdatascience.com/how-to-efficiently-fine-tune-your-own-open-source-llm-using-novel-techniques-code-provided-03a4e67d1b48) - PEFT techniques code walkthru
 - [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer) - By SWYX, Emergent capabilities are creating an emerging title: to wield them, we'll have to go beyond the Prompt Engineer and write *software*.
 - [Fine-tuning advanced techniques](https://medium.com/@bijit211987/fine-tuning-advanced-techniques-for-llms-optimization-3c09993909ce) - Parameter-efficient fine-tuning methods (PEFT), Full fine-tuning, ...
