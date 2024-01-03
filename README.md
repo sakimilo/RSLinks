@@ -14,6 +14,11 @@ Welcome to the Generative AI Resources repository! This repository is dedicated 
 - [Miscellaneous References](#miscellaneous-references)
 - [Contributing](#contributing)
 
+## Favorite Links
+- [RAG-WebApp at Github](https://sakimilo.github.io/)
+- [RAG-WebApp at Streamlit](https://ragtest-sakimilo.streamlit.app/)
+- [RAG-WebApp at HuggingFace](https://huggingface.co/spaces/lingyit1108/ragtest-sakimilo)
+
 ## Introduction
 Welcome to the Artificial Intelligence Resources repository, focusing on the emerging and exciting field of GenAI (Generative Artificial Intelligence). GenAI represents a subset of AI technologies and methodologies that focus on generating new content, ideas, or solutions based on the input data and learned patterns.
 
@@ -51,6 +56,9 @@ Links to influential or foundational research papers and model in AI.
 - [axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) - Axolotl is a tool designed to streamline the fine-tuning of various AI models, offering support for multiple configurations and architectures.
 - [presidio](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable PII de-identification service for text and images.
 - [openai-evals](https://github.com/openai/evals) - Not sure what is this.
+- [streamlit](https://share.streamlit.io/) - A super nice way to create DS webapp
+- [huggingface-space](https://huggingface.co/lingyit1108) - custom domain
+- [sakimilo.github.io](https://sakimilo.github.io/) - My Github Page for experimental app
 
 ### Performance
 - [Chatbot Arena](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) - Leaderboard based on crowdsourced votes, MT-bench score, MMLU score
