@@ -18,6 +18,7 @@ Welcome to the Generative AI Resources repository! This repository is dedicated 
 - [RAG-WebApp at Github](https://sakimilo.github.io/)
 - [RAG-WebApp at Streamlit](https://ragtest-sakimilo.streamlit.app/)
 - [RAG-WebApp at HuggingFace](https://huggingface.co/spaces/lingyit1108/ragtest-sakimilo)
+- [Marketing-persona at HuggingFace](https://huggingface.co/spaces/lingyit1108/marketing-persona-sakimilo)
 
 ## Introduction
 Welcome to the Artificial Intelligence Resources repository, focusing on the emerging and exciting field of GenAI (Generative Artificial Intelligence). GenAI represents a subset of AI technologies and methodologies that focus on generating new content, ideas, or solutions based on the input data and learned patterns.
