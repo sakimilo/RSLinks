@@ -115,6 +115,7 @@ Links to open source projects and repositories in the field of AI.
 - [Instructor](https://github.com/jxnl/instructor) - Structured extraction in Python, powered by OpenAI's function calling api, designed for simplicity, transparency, and control. Refer to his website: [Jason Liu's instructor!](https://jxnl.github.io/instructor/), [His Notion page](https://jxnl.notion.site/jxnl/whats-up-95708748a05d40c398a4abc66a978a8e)
 - [Pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [askmarvin.ai](https://www.askmarvin.ai/) - Marvin is a lightweight AI engineering framework for building natural language interfaces that are reliable, scalable, and easy to trust.
+- [Jagane-logmode](https://github.com/jagane-infinstor/logmodel) - this repository has helper function that ingest llama2 gguf/bin files into mlflow registered model
 
 ## Books
 Recommended books for learning about AI.
