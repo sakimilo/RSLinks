@@ -2,6 +2,10 @@
 
 Welcome to the Generative AI Resources repository! This repository is dedicated to providing a curated list of links, articles, papers, and other resources related to the field of GenAI.
 
+- [FastAPI-Huggingface](https://huggingface.co/blog/HemanthSai7/deploy-applications-on-huggingface-spaces) - Deploying Your FastAPI Applications on Huggingface Via Docker
+- [Authentication](https://blog.streamlit.io/streamlit-authenticator-part-1-adding-an-authentication-component-to-your-app/) - Streamlit-Authenticator, Part 1: Adding an authentication component to your app
+- [Fine-tuning embedding](https://docs.llamaindex.ai/en/stable/examples/finetuning/embeddings/finetune_embedding_adapter.html)
+
 ## Contents
 - [Introduction](#introduction)
 - [Courses and Tutorials](#courses-and-tutorials)
