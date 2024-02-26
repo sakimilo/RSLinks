@@ -1,0 +1,80 @@
+User
+What are the key principles of the valuation of policy liabilities?
+
+MAS bot - all docs
+The key principles of the valuation of policy liabilities, as detailed in the Monetary Authority of Singapore (MAS) Notice 319 dated 24 August 2004, are as follows:
+
+Valuation of Policy Liabilities: The policy liability for any single policy, whether it is a participating policy, a non-participating policy, or an investment-linked policy, is the sum of the value of expected future payments less expected future receipts arising from the policy. This value is known as the best estimate or "BE", and any provision made for any adverse deviation from the expected experience ("PAD"). For participating policies, the liability includes the value of expected future payments arising from both guaranteed and non-guaranteed benefits of the policy.
+
+Aggregation for Funds: The policy liabilities of a non-participating fund or an investment-linked fund are calculated by aggregating the policy liabilities of all policies in the fund. For a participating fund, the policy liabilities are calculated as the sum of the liability in respect of each policy of the fund, the minimum condition liability (which represents the value of guaranteed benefits), and policy assets (which represent the value of assets backing the policy liabilities), whichever is the highest.
+
+Treatment of Reinsurance and Bonuses: Requirements on the treatment in relation to reinsurance and the derivation of the amount of the participating fund allocated by way of bonus to participating policies are specified.
+
+Discount Rates: The risk-free discount rate is used for determining the liability in respect of a non-participating policy, the non-unit reserves of an investment-linked policy, and the minimum condition liability of a participating fund[1]``[2].
+
+User
+What percentage sufficiency should a life insurer calculate PAD for accident and health benefit policies? (MAS Notice 319)
+
+MAS bot - all docs
+For policies that provide accident and health benefits, a life insurer should calculate the Provision for Adverse Deviation (PAD) in respect of the part of the policy relating to accident and health benefits based on the 75 percent level of sufficiency, according to MAS Notice 319 revised on 19 December 2018[1].
+
+User
+Based on MAS Notice 122, What are the quarterly submission that a licensed insurer must lodged with the Authority?
+
+MAS bot - all docs
+Based on MAS Notice 122 revised on 30 May 2019, a licensed insurer must lodge the following statements with the Authority on a quarterly basis:
+
+Table 1: Breakdown of Equity Securities.
+Table 2: Breakdown of Debt Securities.
+Table 2a: Breakdown of Loans.
+Table 3: Breakdown of Cash and Deposits.
+Table 4a: Breakdown of Derivatives.
+Table 4b: Turnover Volume of Derivatives.
+Table 5: Breakdown of Foreign Currency Exposure for Assets and Liabilities.
+Table 6: Top 10 Broker Groups with the Highest Outstanding Premiums Due[1].
+
+User
+Based on MAS Notice 122, What are the annual submission that a licensed insurer must lodged with the Authority?
+
+MAS bot - all docs
+Based on MAS Notice 122 revised on 30 May 2019, a licensed insurer must lodge the following statements with the Authority on an annual basis:
+
+Table 7: Breakdown of Assets Managed by Head Office/ Parent/ Outsourced Entity.
+Table 8a: Breakdown of Insurance Exposure of Singapore Insurance General Fund.
+Table 8b: Breakdown of Insurance Exposure of Offshore Insurance (Life and General) Fund.
+Table 9: Breakdown of Assets Held by Custodian[1].
+
+User
+What valuation method is prescribed by the Monetary Authority of Singapore (MAS) for determining the liability of policies related to the life business of the insurer, and what are the key parameters to be included in this method
+
+MAS bot - all docs
+The Monetary Authority of Singapore (MAS) prescribes that in determining the liability of policies related to the life business of the insurer (other than the unit reserves of the investment-linked policy), the value of expected future payments less expected future receipts should be derived using a discounted prospective cash-flow method.
+
+The discounted prospective cash flow method necessitates explicit projection of expected future payments and receipts over the durations of the policy. This projection should include, where applicable, the following key parameters:
+
+Mortality and morbidity benefits
+Survival and maturity benefits
+Surrender benefits
+Distribution costs
+Management expenses
+Claims expenses (if not already included as part of management expenses)
+Premiums payment to and claims recoveries from reinsurance counterparty
+Cost of options
+Parameters that are immaterial to the valuation of policy liabilities may be excluded from the projection. The assumptions used in the projection should be based on the best estimate assumptions and in accordance with specific guidelines provided in the MAS Notice. Further allowance for the uncertainty of the best estimate value derived is provided through the Provision for Adverse Deviation (PAD), which should be derived using the same method outlined above but with more conservative assumptions containing a buffer against fluctuations of the best estimate experience[1].
+
+User
+The types of insurers that are exempt from the application of the MAS Notice on Asset & Liability Exposures for Insurers (MAS Notice 122) are:
+
+MAS bot - all docs
+According to MAS Notice 122 revised on 30 May 2019, the types of insurers that are exempt from the application of the MAS Notice on Asset & Liability Exposures for Insurers are:
+
+A captive insurer.
+A foreign insurer carrying on insurance business under a foreign insurer scheme established under section 35B of the Act.
+A marine mutual insurer[1].
+
+User
+As of what date was MAS Notice 319 on the Valuation of Policy Liabilities of Life Business, issued on 24 August 2004, cancelled?
+
+MAS bot - all docs
+MAS Notice 319 on the Valuation of Policy Liabilities of Life Business, issued on 24 August 2004 (last revised 19 December 2018), was cancelled with effect from 31 March 2020[1].
+
